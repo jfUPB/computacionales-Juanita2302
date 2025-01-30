@@ -8,6 +8,12 @@
 
 
 
+### Contador de programa (PC): ¿Cuál es su función en el ciclo Fetch-Decode-Execute? ###
+El pc cumple con la función de organizar y almacenar la instrucción, luego fetch nos da la dirección y luego decode decodifica y evalua lo que se va a realizar
+
+
+
+
 
 
 
