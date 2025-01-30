@@ -1,6 +1,7 @@
 ### Componentes principales de la arquitectura Hack ###
 
 ![image](../../../../assets/unp-p.png)
+
 ![image](../../../../assets/unp-2.png)
 
 ### Contador de programa (PC): ¿Cuál es su función en el ciclo Fetch-Decode-Execute? ###
