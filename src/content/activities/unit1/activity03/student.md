@@ -1,4 +1,4 @@
-### Componentes principales de la arquitectura Hack ###
+##### Componentes principales de la arquitectura Hack #####
 
 ![image](../../../../assets/unp-p.png)
 
