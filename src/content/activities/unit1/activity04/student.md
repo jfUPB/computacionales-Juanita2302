@@ -24,3 +24,10 @@
 - 0;JMP
 
 2)
+
+- @5 (Estamos cargando el número 5 en el registro A)
+- D = M (Se encarga de guardar el valor en la dirección 5 dentro de la D)
+- @10 (Estamos cargando la dirección 10 en el registro A)
+- M = D (Se encarga de guardar el valor de D en la dirección 10)
+- @END (Mantiene)
+- 0;JMP
