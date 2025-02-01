@@ -12,4 +12,15 @@
 
 ##### Ejemplos: #####
 
-- A-instructions: 
+1)
+
+- @2 (Estamos cargando el número 2 en el registro A)
+- D = M (Se encarga de guardar el valor en la dirección 2 dentro de la D)
+- @3 (Estamos cargando la dirección 3 en el registro A)
+- D = D + M (Se encarga de sumar el valor de 3 con D)
+- @0 (Estamos cargando la dirección 0 en A)
+- M = D (Guarda el resultado en 0)
+- @END (Carga END en el registro A)
+- 0;JMP
+
+2)
