@@ -31,3 +31,10 @@
 - M = D (Se encarga de guardar el valor de D en la dirección 10)
 - @END (Mantiene)
 - 0;JMP
+
+
+3)
+
+- D = A + 1 (Suma A + 1 y guarda el resultado en D
+
+
