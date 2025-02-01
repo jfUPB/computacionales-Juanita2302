@@ -35,6 +35,6 @@
 
 3)
 
-- D = A + 1 (Suma A + 1 y guarda el resultado en D
+- D = A + 1 (Suma A + 1 y guarda el resultado en D)
 
 
