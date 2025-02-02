@@ -9,3 +9,19 @@
 
 - Puntero
   Se le llama así a una variable la cual almacena una dirección de memoria en otro dato en vez del mismo dato.
+
+  ```
+  @0      
+  D = M
+  @D     
+  D = M
+  @20
+  M = D
+  ```
+- Explicación:
+  Lo que hicimos fue apuntar a RAM[0] y luego cargar la D en la dirección. Después apuntar la dirección almacenada en D y cargar en D el valor almacenado en la dirección.
+  Por ultimo apuntar a RAM y guardar ahí mismo el valor leído de RAM
+  
+
+
+  
