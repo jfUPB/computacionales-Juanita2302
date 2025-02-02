@@ -1,9 +1,11 @@
 ##### Profundizando en las instrucciones del lenguaje ensamblador #####
 
-##### ¿Cuál es la función de cada tipo de instrucción? #####
-- De acuerdo a lo leido en el texto, he podido evidenciar que cada instrucción cumple una funcion para:
+#### ¿Cuál es la función de cada tipo de instrucción? ####
+De acuerdo a lo leido en el texto, he podido evidenciar que cada instrucción cumple una funcion para:
+
 ##### A-instructions: Se usan para cargar un valor en A el cual puede ser un numero constante o una dirección de memoria, su sintaxis es @ #####
-##### C-instructions: Se usan para hacer operaciones aritméticas y lógicas. Son más complejas que las A y tienen tres partes (Comp, dest y jump) #####
+
+#### C-instructions: Se usan para hacer operaciones aritméticas y lógicas. Son más complejas que las A y tienen tres partes (Comp, dest y jump) ####
 
 ##### ¿Cómo se representa cada tipo de instrucción en binario? #####
 - En cuanto a la representación en binario es un poco más complejo pero de forma breve y clara:
