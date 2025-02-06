@@ -12,6 +12,7 @@ D=D-A
 @10
 M=D
 ```
-![image](https://github.com/user-attachments/assets/9867bcf1-bf99-4aba-a9d1-283eeb001bf1)
+![image](../../../../assets/Actividad06.png)
+
 
 
