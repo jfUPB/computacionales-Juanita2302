@@ -14,8 +14,7 @@ Seguiré aplicando la práctica activa, resolviendo más ejercicios en el emulad
 cómo se ejecutan las instrucciones en cada paso. Además, quiero complementar con diagramas y anotaciones
 que me ayuden a visualizar mejor el flujo de ejecución del código ensamblador.
 
-#### ¿Qué habilidades te gustaría desarrollar para mejorar tu capacidad de programar en ensamblador o
-en otros lenguajes de programación? ####
+#### ¿Qué habilidades te gustaría desarrollar para mejorar tu capacidad de programar en ensamblador o en otros lenguajes de programación? ####
 Seguiré aplicando la práctica activa, resolviendo más ejercicios en el emulador y verificando cómo se ejecutan
 las instrucciones en cada paso. Además, quiero complementar con diagramas y anotaciones que me ayuden a visualizar 
 mejor el flujo de ejecución del código ensamblador.
