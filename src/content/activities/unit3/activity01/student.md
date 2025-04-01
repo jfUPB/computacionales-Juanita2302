@@ -1,4 +1,4 @@
-##### Explicación de las opciones de depuración #####
+#### Explicación de las opciones de depuración ####
   • Pausar: Detiene temporalmente la ejecución del programa.
 
 
