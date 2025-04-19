@@ -7,4 +7,4 @@ M=1
   
 ```
 
-![image](../../../../assets/Actividad10.jpg)
+![image](../../../../assets/actividad10.jpg)
